@@ -1,3 +1,3 @@
-module example.com/greetings
+module kchen.com/greetings
 
 go 1.17
